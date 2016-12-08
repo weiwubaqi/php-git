@@ -1,3 +1,4 @@
 <?php
 echo "GIT版本控制练习"
+echo "git提交冲突2"
 ?>
